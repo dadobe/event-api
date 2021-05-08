@@ -1,0 +1,55 @@
+{
+    "event": 
+    [
+        {
+            "id": 0,
+            "title": "Mollo Trail Run Pyrenees - mountain running races",
+            "description": "Race in the mountain run Mollo Trail Pyrenees in early June 2021. Two routes - mountain marathon (43 km) and half marathon (20 km).",
+            "imageURL": "https://gironaprosport.com/wp-content/uploads/mollo-trail-run-360x360.jpg.webp",
+            "price": 175,
+            "category": ["mountain, running"],
+            "difficulty": "Medium / Demanding",
+            "guide": "Yes",
+            "coach": "No",
+            "stages": 1,
+            "distance": 43,
+            "unevenness": 2392,
+            "bycicleRental": "No",
+            "availability": "from 04/06 to 06/06",
+            "tags": ["#running", "#mountain", "#trial", "#racing"],
+            "type": "Mountain / Running",
+            "duration": "3",
+            "routeMap": "https://gironaprosport.com/wp-content/uploads/track-mollo.jpg.webp",
+            "details": 
+            [
+                "Join us in the Mollo Trail Run Pyrenees in early June. You can choose between a Marathon and a Hal-Marathon.\n",
+                "The Molló trail run of the Pyrenees is a cross-border mountain run that resembles (through footpaths, forests and rivers) the journey of many men and women who had to go into exile in France at the end of the Spanish Civil War.\n",
+                "Race with two routes in the length of 43 km or 20 km leading places Mollo, Coll d'Ares, Prats de Mollo and Espinavell in the eastern part of the natural park Capçaleres del Ter and Freser.\n",
+                "So you will run on both the Spanish and French sides of the Pyrenees.\n",
+                "The races are locally focused, organized by local volunteers and have been very popular for several years. Together with the race, we have prepared a smaller package so that in addition to running, you also get to know the local environment and gastronomy. This event is a unique opportunity to get to know the authenticity beauty of the Eastern Pyrenees and local culture."
+            ]
+            ,
+            "descriptionRoute1": 
+            [
+                 "Date: June 4 - June 6, 2021\nMOLLO TRAIL Run Pyrenees 43 KM\nDistance: 42.5 km\nElevation: 2.392 mts\nMax altitude: 1.674 mts"
+            ]
+            ,
+            "linkRoute1": "https://ca.wikiloc.com/rutes-outdoor/cursa-mollo-trail-43-km-45722805",
+            "imageRoute1": "https://gironaprosport.com/wp-content/uploads/profil-43-km-1024x205.png.webp",
+            "descriptionRoute2": 
+            [
+                "Date: June 4 - June 6, 2021\nMOLLO TRAIL Run Pyrenees 20 KM\nDistance: 20.6 km\nElevation: 1.115 mts\nMax altitude: 1.642 mts"
+           ]
+           ,
+           "linkRoute2": "https://es.wikiloc.com/rutas-carrera/cursa-mollo-trail-20-km-32905308",
+           "imageRoute2": "https://gironaprosport.com/wp-content/uploads/profil-20-km-1024x205.png.webp",
+           "journey": 
+           [
+               "Program:\nArrival in Espinavell on Friday, June 4. We recommend arriving in Barcelona (or Girona) and renting a car there.  We can book both the flight and the car rental for you.  On Friday evening, a themed dinner at a local restaurant in Espinavell - the restaurant is right next to the chalet. On Saturday morning, a half-day trip with a local guide. Sunday morning race in Molló, start is at 8:30.",
+               "Accomodation:\nAccommodation in a package is in a mountain cottage, in shared rooms.  If you prefer more comfort, or you want to come with your family, we can offer alternative accommodation.\nIf you want to extend the trip, of course, is not a problem, we will help and we will be happy to help with the organization of an addiitonal program tip and tips on what to visit. Alternatively, if you do not want to rent a car, we will help with alternative transport (train Barcelona - Ripoll, taxi Ripoll - Espinavell, transfer from Espinavell to Mollo to start the race)."
+           ]
+            
+        }
+        
+    ]
+}
